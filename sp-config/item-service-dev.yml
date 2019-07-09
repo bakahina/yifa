@@ -13,10 +13,12 @@ spring:
   profiles: item1
 
 server:
-  port: 8004
+  port: 8001
 ---
 spring:
   profiles: item2
 
 server:
   port: 8002
+
+#shishi
